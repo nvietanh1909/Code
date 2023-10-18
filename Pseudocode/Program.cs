@@ -82,7 +82,6 @@ class Program
                         var species = Species[item.Loai - 1];
                         Console.WriteLine(item.En + " - " + item.Ph + " - " + item.Vn + " - " + species);
                     }
-                    return;
                 }
                 else if (x == 2)
                 {
@@ -94,7 +93,6 @@ class Program
                         var species = Species[item.Loai - 1];
                         Console.WriteLine(item.En + " - " + item.Ph + " - " + item.Vn + " - " + species);
                     }
-                    return;
                 }
                 else if (x == 3)
                 {
@@ -106,7 +104,6 @@ class Program
                         var species = Species[item.Loai - 1];
                         Console.WriteLine(item.En + " - " + item.Ph + " - " + item.Vn + " - " + species);
                     }
-                    return;
                 }
                 else if (x == 4)
                 {
