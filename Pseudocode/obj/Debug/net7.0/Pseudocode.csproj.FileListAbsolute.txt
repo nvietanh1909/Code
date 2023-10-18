@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Máy tính\Pseudocode\Pseudocode\bin\Debug\net7.0\Pseudocode.exe
+C:\Users\Admin\OneDrive\Máy tính\Pseudocode\Pseudocode\bin\Debug\net7.0\Pseudocode.deps.json
+C:\Users\Admin\OneDrive\Máy tính\Pseudocode\Pseudocode\bin\Debug\net7.0\Pseudocode.runtimeconfig.json
+C:\Users\Admin\OneDrive\Máy tính\Pseudocode\Pseudocode\bin\Debug\net7.0\Pseudocode.dll
+C:\Users\Admin\OneDrive\Máy tính\Pseudocode\Pseudocode\bin\Debug\net7.0\Pseudocode.pdb
+C:\Users\Admin\OneDrive\Máy tính\Pseudocode\Pseudocode\obj\Debug\net7.0\Pseudocode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Máy tính\Pseudocode\Pseudocode\obj\Debug\net7.0\Pseudocode.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\Pseudocode\Pseudocode\obj\Debug\net7.0\Pseudocode.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Máy tính\Pseudocode\Pseudocode\obj\Debug\net7.0\Pseudocode.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\Pseudocode\Pseudocode\obj\Debug\net7.0\Pseudocode.dll
+C:\Users\Admin\OneDrive\Máy tính\Pseudocode\Pseudocode\obj\Debug\net7.0\refint\Pseudocode.dll
+C:\Users\Admin\OneDrive\Máy tính\Pseudocode\Pseudocode\obj\Debug\net7.0\Pseudocode.pdb
+C:\Users\Admin\OneDrive\Máy tính\Pseudocode\Pseudocode\obj\Debug\net7.0\Pseudocode.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Máy tính\Pseudocode\Pseudocode\obj\Debug\net7.0\ref\Pseudocode.dll
